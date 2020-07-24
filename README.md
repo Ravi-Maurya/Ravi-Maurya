@@ -9,22 +9,20 @@
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/mauryaravi/) [![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat&logo=Gmail)](mailto:ravi.rm.maurya@gmail.com)
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=LeetCode)](https://leetcode.com/ravi-maurya/) [![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat&logo=HackerRank)](https://www.hackerrank.com/ravi_rm_maurya)
 
-[![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=Ravi-Maurya&show_icons=true&hide_border=true&hide_rank)](https://github.com/Ravi-Maurya)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Maurya)](https://github.com/Ravi-Maurya)
-<br/>
+<a href="https://github.com/Ravi-Maurya"><img width="50%" align="right" alt="Ravi's github stats" src="https://github-readme-stats.vercel.app/api?username=Ravi-Maurya&show_icons=true&hide_border=true&hide_rank" /></a>
 
 **Frameworks & Tools:**
 
 <p>
   <code><img src = "https://www.vectorlogo.zone/logos/python/python-ar21.svg"/></code>
   <code><img src = "https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/></code>
-  <code><img src = "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/></code><br/>
   <code><img src = "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/></code>
-  <code><img src = "https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"/></code> <br/>
-  <code><img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"/></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/></code><br/>
   <code><img src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/></code>
   <code><img src = "https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/></code>
-  <code><img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code><br/>
   <code><img src = "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"/></code>
   <code><img width="5%" src = "https://cdn.worldvectorlogo.com/logos/c.svg"/></code>
 </p>
