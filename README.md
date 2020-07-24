@@ -26,6 +26,7 @@
   <code><img src = "https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/></code>
   <code><img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
   <code><img src = "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"/></code>
+  <code><img width="5%" src = "https://cdn.worldvectorlogo.com/logos/c.svg"/></code>
 </p>
 <!--
 **Ravi-Maurya/Ravi-Maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
