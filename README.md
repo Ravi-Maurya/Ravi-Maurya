@@ -16,14 +16,15 @@
 **Frameworks & Tools:**
 
 <p>
+  <code><img src = "https://www.vectorlogo.zone/logos/python/python-ar21.svg"/></code>
   <code><img src = "https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/></code>
   <code><img src = "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/></code>
   <code><img src = "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"/></code> <br/>
   <code><img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/></code>
-  <code><img src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/></code> <br/>
+  <code><img src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/></code>
   <code><img src = "https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/></code>
   <code><img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/></code>
-  <code><img src = "https://www.vectorlogo.zone/logos/python/python-ar21.svg"/></code>
   <code><img src = "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"/></code>
 </p>
 <!--
