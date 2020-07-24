@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Ravi Maurya.
 ### I am a Software Developer/ Programmer and also ML Enthusiast.
 **About Me:**
-<img width="55%" align="right" alt="Github" src="https://bit.ly/3jvLMET" />
+<img width="55%" align="right" alt="Github" src="https://github.com/Ravi-Maurya/Ravi-Maurya/blob/master/cat-01.png" />
 - 🔭 I’m currently working on refining my Programming Skills.
 - 🌱 I’m currently learning Backend as service.
 - 🤔 I’m looking for help with Financial Literacy.
