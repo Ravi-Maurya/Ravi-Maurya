@@ -11,9 +11,17 @@
 
 [![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=Ravi-Maurya&show_icons=true&hide_border=true&hide_rank)](https://github.com/Ravi-Maurya)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Maurya)](https://github.com/Ravi-Maurya)
-<br>
+<br/>
+
+**Frameworks & Tools:**
+
 <p>
-<code><img width="10% src = "https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"/></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/></code>
+  <code><img src = "https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"/></code>
 </p>
 <!--
 **Ravi-Maurya/Ravi-Maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
