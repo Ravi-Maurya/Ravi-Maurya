@@ -1,10 +1,7 @@
 ### Hi 👋, I'm Ravi Maurya.
 ### I am a Software Developer/ Programmer and also ML Enthusiast.
-[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=LeetCode)](https://leetcode.com/ravi-maurya/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat&logo=HackerRank)](https://www.hackerrank.com/ravi_rm_maurya)
-<br>
 **About Me:**
-
+<img width="55%" align="right" alt="Github" src="https://bit.ly/3jvLMET" />
 - 🔭 I’m currently working on refining my Programming Skills.
 - 🌱 I’m currently learning Backend as service.
 - 🤔 I’m looking for help with Financial Literacy.
@@ -13,7 +10,9 @@
 
 
 
-
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat&logo=LeetCode)](https://leetcode.com/ravi-maurya/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat&logo=HackerRank)](https://www.hackerrank.com/ravi_rm_maurya)
+<br>
 [![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=Ravi-Maurya&show_icons=true&hide_border=true&hide_rank)](https://github.com/Ravi-Maurya)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Maurya)](https://github.com/Ravi-Maurya)
 
